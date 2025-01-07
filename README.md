@@ -13,6 +13,7 @@ Conversão para Escala de Cinza: A imagem colorida é convertida para escala de 
 Binarização: Dois tipos de binarização são aplicados:
   - Binarização simples.
   - Binarização invertida.
+    
 Visualização dos Resultados: As etapas do processo são exibidas lado a lado, incluindo:
   - A imagem original.
   - A imagem em escala de cinza.
